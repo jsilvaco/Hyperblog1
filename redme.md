@@ -1,1 +1,0 @@
-Esta es la prueba de los merge en los repositorios remotos
