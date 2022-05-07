@@ -35,3 +35,10 @@ margin: 0 auto;
 {
     font: size:14px;
 }
+#Footer
+{
+    background: #777;
+    color:white;
+    text-align:center;
+    padding: 0.5em;
+}
